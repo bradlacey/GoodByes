@@ -1,4 +1,4 @@
-# GoodByesGP
+# GoodByes
 
 GoodByes is an iOS application designed to make navigating the AFL fantasy season's byes a little easier. It includes support for the three major platforms, AFL Fantasy, SuperCoach, and Dream Team, fully updated with 2024 players and round six DPPs.
 
